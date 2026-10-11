@@ -1,0 +1,67 @@
+OWL SUPPLY COMMERCIAL TEMPLATE LICENSE
+Version 1.0
+
+Copyright (c) 2026 OWL Supply. All rights reserved.
+
+This license governs the use of the "Cursed Reels — Haunted Jackpot" HTML5
+slot game template and all associated source files, assets, and documentation
+(collectively, the "Template") purchased through the OWL Supply Gumroad store.
+
+────────────────────────────────────────────────────────────────────────────────
+GRANT OF LICENSE
+────────────────────────────────────────────────────────────────────────────────
+
+Upon purchase, OWL Supply grants you ("Licensee") a non-exclusive,
+non-transferable, worldwide license to:
+
+  1. Use the Template as the basis for ONE (1) end project or commercial
+     product (a website, web app, game product, or similar deployed work).
+
+  2. Modify, adapt, extend, and rebrand the Template freely for that
+     end project.
+
+  3. Sell, distribute, or monetize the END PRODUCT (the finished game or
+     application you build on top of the Template). Commercial use of your
+     finished product is fully permitted.
+
+────────────────────────────────────────────────────────────────────────────────
+RESTRICTIONS
+────────────────────────────────────────────────────────────────────────────────
+
+Licensee may NOT:
+
+  1. Resell, redistribute, sublicense, or otherwise make available the
+     Template source code — in original or modified form — as a template,
+     starter kit, code package, or development tool to any third party.
+
+  2. Use the Template as the basis for more than one (1) distinct end
+     project without purchasing one additional license per project.
+
+  3. Transfer this license to another individual or entity. The license
+     is tied to the purchasing party only.
+
+  4. Claim authorship of the Template itself or remove OWL Supply copyright
+     notices from any unmodified source files.
+
+────────────────────────────────────────────────────────────────────────────────
+MULTI-PROJECT USE
+────────────────────────────────────────────────────────────────────────────────
+
+Each additional end project requires one additional license purchase at the
+then-current single-project price. Contact OWL Supply via Gumroad for volume
+or agency pricing.
+
+────────────────────────────────────────────────────────────────────────────────
+DISCLAIMER OF WARRANTIES
+────────────────────────────────────────────────────────────────────────────────
+
+THE TEMPLATE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. OWL SUPPLY SHALL NOT BE LIABLE
+FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE TEMPLATE.
+
+────────────────────────────────────────────────────────────────────────────────
+
+By downloading or using the Template, you agree to the terms of this license.
+
+OWL Supply — owlsupply.co
