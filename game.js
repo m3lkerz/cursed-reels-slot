@@ -249,7 +249,8 @@
     const g = c.getContext('2d');
     const low = CONFIG.lowSymbols[sym];
     if (low) {
-      let fs = px * 0.6; const cx = px / 2, cy = px * 0.52;
+      let fs = px * 0.6; const cx = px / 2 - (sym === 'Q' ? px * 0.07 : 0), cy = px * 0.52;
+      if (sym === 'Q') fs *= 0.86; // Cinzel's Q tail overhangs its advance width
       g.font = `900 ${fs}px Cinzel, Georgia, serif`;
       const mw = g.measureText(sym).width; if (mw > px * 0.7) fs *= px * 0.7 / mw;
       g.font = `900 ${fs}px Cinzel, Georgia, serif`; g.textAlign = 'center'; g.textBaseline = 'middle';
